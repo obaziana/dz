@@ -1,0 +1,7 @@
+29-May-26 18:06:31 - INFO - Program started successfully
+29-May-26 18:06:31 - ERROR - User tried div by zero
+Traceback (most recent call last):
+  File "C:\Users\Инна\PycharmProjects\PythonProject\dz loggin.py", line 13, in <module>
+    a = 1 / 0
+        ~~^~~
+ZeroDivisionError: division by zero
